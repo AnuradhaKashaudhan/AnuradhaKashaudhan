@@ -81,15 +81,7 @@
 </p>
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true">
-
-</p>
 
 
 # 🚀 Featured Projects
@@ -101,6 +93,33 @@ An interactive **personal portfolio platform** showcasing projects, skills, and 
 https://cypher-canvas-hub.lovable.app
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true">
+
+</p>
+
+# 🎓 Education & Achievements
+
+🎓 **B.Tech Computer Science Student**  
+Lovely Professional University
+
+📚 Focus Areas
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+🏆 Achievements
+
+• Active learner in **AI & ML technologies**  
+• Building real-world development projects  
+• Practicing **DSA and competitive programming**  
+• Developing **modern web applications**
 
 ### 🤖 AI Learning Projects
 A collection of experiments and projects focused on **Artificial Intelligence, Machine Learning, and Data Science**.
