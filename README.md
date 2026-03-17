@@ -57,26 +57,27 @@
 
 # 🛠️ Tech Stack
 
+# 🛠️ Tech Stack
+
 ### 👩‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
 </p>
 
 ### 🌐 Web Development
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
 ### 🤖 AI / Data Science
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### ⚙️ Tools & Platforms
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
 ---
 
 # 📊 GitHub Stats
