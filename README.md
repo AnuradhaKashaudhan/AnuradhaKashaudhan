@@ -94,15 +94,7 @@ https://cypher-canvas-hub.lovable.app
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true">
-
-</p>
 
 # 🎓 Education & Achievements
 
@@ -130,6 +122,16 @@ Technologies used:
 - Data Analysis Tools
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true">
+
+</p>
 
 ### 🌐 Frontend Development Projects
 Modern responsive websites built using:
