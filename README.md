@@ -13,7 +13,7 @@
 # 🤖 AI Developer Profile
 
 🎓 **B.Tech Computer Science Student** at Lovely Professional University  
-💻 Passionate about **AI, Machine Learning & Full Stack Development**  
+💻 Passionate about **AI, Machine Learning & Frontend Development**  
 🚀 Building innovative projects that solve real-world problems  
 📚 Constant learner exploring new technologies
 
