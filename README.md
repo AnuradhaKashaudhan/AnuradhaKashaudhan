@@ -91,6 +91,47 @@
 
 </p>
 
+
+# 🚀 Featured Projects
+
+### 🧠 Cypher Canvas Hub
+An interactive **personal portfolio platform** showcasing projects, skills, and creative work with a modern UI.
+
+🔗 Live Demo:  
+https://cypher-canvas-hub.lovable.app
+
+---
+
+### 🤖 AI Learning Projects
+A collection of experiments and projects focused on **Artificial Intelligence, Machine Learning, and Data Science**.
+
+Technologies used:
+- Python
+- Machine Learning Libraries
+- Data Analysis Tools
+
+---
+
+### 🌐 Frontend Development Projects
+Modern responsive websites built using:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Focused on creating **clean UI and interactive web experiences**.
+
+---
+
+### 💻 Programming Practice
+Problem-solving and coding practice across platforms like:
+
+- LeetCode
+- GeeksforGeeks
+- Codeforces
+
+Working on **data structures, algorithms, and competitive programming**.
 ---
 
 # 📈 Contribution Graph
