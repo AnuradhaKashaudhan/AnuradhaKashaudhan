@@ -1,46 +1,38 @@
-<!-- ================== WAVE HEADER ================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%20👋%20I'm%20Anuradha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Frontend%20Developer&descAlignY=58&descSize=18"/>
+<!-- ================== ANIMATED HEADER ================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuradhaKashaudhan&label=Profile%20Views&color=6a11cb&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=followers&url=https://api.github.com/users/AnuradhaKashaudhan&style=for-the-badge&logo=github"/>
-  <a href="https://github.com/AnuradhaKashaudhan?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=success&label=Repositories&query=public_repos&url=https://api.github.com/users/AnuradhaKashaudhan&style=for-the-badge&logo=github"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=250&section=header&text=Anuradha%20Kashaudhan&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=Future%20AI%20Engineer%20•%20Machine%20Learning%20Enthusiast%20•%20Frontend%20Developer&descAlignY=55&descSize=17&descColor=8be9fd"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=%F0%9F%9A%80+Future+AI+Engineer;%F0%9F%A4%96+Machine+Learning+Explorer;%F0%9F%92%BB+Frontend+Developer;%E2%9C%A8+Building+Innovative+Tech+Projects;%F0%9F%93%9A+Always+Learning+New+Technologies" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=AnuradhaKashaudhan&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00f7ff&labelColor=0f2027&label=FOLLOWERS&query=followers&url=https://api.github.com/users/AnuradhaKashaudhan&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00f7ff&labelColor=0f2027&label=REPOS&query=public_repos&url=https://api.github.com/users/AnuradhaKashaudhan&style=for-the-badge&logo=github"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/badges/JavaScript/javascript.svg" width="0" height="0"/>
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Machine+Learning+Explorer;Frontend+Developer;Building+Innovative+Tech+Projects;Always+Learning+New+Technologies" />
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
+
+</div>
 
 ## 👩‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/mishig25/mishig25/gif-test/Assets/Coding.gif">
+<img align="right" width="280" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubDark.svg" alt="dev-graphic"/>
 
-```yaml
-name: Anuradha Kashaudhan
-role: B.Tech Computer Science Student
-university: Lovely Professional University
-focus:
-  - Artificial Intelligence 🤖
-  - Machine Learning 📊
-  - Frontend Development 💻
-mission: "Building projects that solve real-world problems"
-currentlyExploring: "Modern Web Tech + Deep Learning"
-funFact: "I debug with print statements and I'm not sorry 😄"
-```
+🎓 **B.Tech Computer Science Student** at Lovely Professional University  
+🤖 Passionate about **Artificial Intelligence & Machine Learning**  
+💻 Exploring **Frontend Development & Modern Web Technologies**  
+🚀 Building projects that solve **real-world problems**  
+📚 Constant learner discovering **new technologies**
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -48,27 +40,36 @@ funFact: "I debug with print statements and I'm not sorry 😄"
 <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://codeforces.com/profile/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </p>
 
-> 💡 Tip: swap every placeholder URL above (LinkedIn, Instagram, etc.) with your real profile links.
+> 💡 Replace the placeholder links (LinkedIn, Instagram, Facebook, GFG, LeetCode, Codeforces, Gmail) with your real profile URLs.
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,tensorflow,pytorch,git,github,vscode,linux&theme=dark" />
+### 👩‍💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
 </p>
 
-<details>
-<summary>📊 <b>Click to see my most-used languages (animated)</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaKashaudhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+### 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
 </p>
-</details>
 
----
+### 🤖 AI / Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -81,71 +82,114 @@ funFact: "I debug with print statements and I'm not sorry 😄"
 ### 🧠 Cypher Canvas Hub
 An interactive **personal portfolio platform** showcasing projects, skills, and creative work with a modern UI.
 
-🔗 **Live Demo:** [cypher-canvas-hub.lovable.app](https://cypher-canvas-hub.lovable.app)
+🔗 Live Demo:  
+https://cypher-canvas-hub.lovable.app
 
-> ➕ Add more repo cards here by copying the pin block above and swapping the `repo=` name — GitHub renders each one as a live, styled card.
-
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🎓 Education & Achievements
 
-```text
-🎓 B.Tech Computer Science Student — Lovely Professional University
+🎓 **B.Tech Computer Science Student**  
+Lovely Professional University
 
-📚 Focus Areas       🏆 Achievements
-─────────────        ─────────────────────────────────────
-🤖 AI                 • Active learner in AI & ML tech
-📊 Machine Learning   • Building real-world dev projects
-🌐 Web Development    • Practicing DSA & competitive coding
-                       • Developing modern web applications
-```
+📚 Focus Areas
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+🏆 Achievements
+
+- Active learner in **AI & ML technologies**
+- Building real-world development projects
+- Practicing **DSA and competitive programming**
+- Developing **modern web applications**
 
 ### 🤖 AI Learning Projects
-A collection of experiments and projects focused on **Artificial Intelligence, Machine Learning, and Data Science** — built with Python, ML libraries, and data analysis tools.
+A collection of experiments and projects focused on **Artificial Intelligence, Machine Learning, and Data Science**.
 
----
+Technologies used:
+- Python
+- Machine Learning Libraries
+- Data Analysis Tools
+
+### 🌐 Frontend Development Projects
+Modern responsive websites built using:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Focused on creating **clean UI and interactive web experiences**.
+
+### 💻 Programming Practice
+Problem-solving and coding practice across platforms like:
+
+- LeetCode
+- GeeksforGeeks
+- Codeforces
+
+Working on **data structures, algorithms, and competitive programming**.
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnuradhaKashaudhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuradhaKashaudhan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=00f7ff&fire=00f7ff" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuradhaKashaudhan&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuradhaKashaudhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00f7ff" height="165"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuradhaKashaudhan&theme=tokyo-night&hide_border=true&radius=10&area=true" width="95%">
+</p>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnuradhaKashaudhan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnuradhaKashaudhan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-> ⚙️ To make this snake render on **your** profile, add the `platane/snk` GitHub Action to this repo (search "github contribution snake action" for the one-click workflow) — otherwise this image stays blank since it's tied to a specific repo's Action output.
+> ⚙️ This animates once you add the `platane/snk` GitHub Action to this repo (a one-click workflow that regenerates the snake SVG from your contribution graph).
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
 
 ## 💡 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+> "The best way to predict the future is to create it." – Alan Kay
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/RectangleDivider.gif" width="100%">
+
+## 🔥 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnuradhaKashaudhan&label=Profile%20Views&color=00f7ff&style=for-the-badge&labelColor=0f2027">
+</p>
 
 ## ⭐ Support
 
-If you like my work, consider **starring my repositories** ⭐ — it keeps me motivated to build more!
+If you like my work, consider **starring my repositories** ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:000000&height=150&section=footer&animation=twinkling"/>
